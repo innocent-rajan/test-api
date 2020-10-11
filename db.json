@@ -1,18 +1,9 @@
 {
-    "bn": "DL1PD5056",
-    "br": "534up",
-    "bt": "0",
-    "ts": "12:57",
-    "vd": "90",
-    "ti": 1753,
-    "qt": "ticket"
-},
-{
-    "bn": "DL1PD5056",
-    "br": "534up",
-    "bt": "0",
-    "ts": "12:57",
-    "vd": "90",
-    "ti": 1753,
-    "qt": "ticket"
+    "bus_number": "DL1PD5056",
+    "bus_route": "534up",
+    "bus_type": "0",
+    "timestamp": "12:57",
+    "validity": "90",
+    "ticket_id": 1753,
+    "qr_type": "ticket"
 }
