@@ -1,1 +1,907 @@
-
+stop_id,stop_code,stop_name,stop_lat,stop_lon
+328,,Anand Vihar (ISBT),28.6483,77.3178
+783,,Badarpur Border,28.493222,77.303353
+184,,Yojna Vihar,28.65965,77.31518299999998
+788,,Jaitpur X-ing,28.496767,77.302417
+210,,Yamuna Sports Complex,28.659983,77.31173299999998
+603,,Badarpur,28.502067,77.300033
+361,,Ram Vihar,28.657733,77.310467
+581,,Power House Badarpur,28.5073,77.3
+597,,Onida Factory,28.513,77.2976
+639,,Ali Village,28.5153,77.2967
+168,,Saini Enclave,28.6508,77.3056
+794,,Madanpur X-ing,28.52965,77.287933
+169,,Hargovind Singh Enclave,28.645917,77.30105
+902,,Sarita Vihar,28.53205,77.286917
+186,,Karkardooma Crossing,28.642867,77.29725
+552,,Apollo Hospital,28.5396,77.2825
+447,,New Rajdhani Enclave,28.642117,77.29625
+900,,Harkesh Nagar,28.543767,77.2793
+691,,Okhla Tank,28.548017,77.276567
+277,,Nirman Vihar,28.636783,77.287683
+546,,CRRI,28.551067,77.27395
+233,,Shakarpur,28.633517,77.282067
+879,,Sukhdev Vihar Depot,28.554867,77.27125
+649,,Kalkaji Mode,28.55795,77.26895
+11,,Laxmi Nagar Xing,28.6297,77.277067
+798,,Ishwar Nagar,28.5616,77.266217
+559,,New Friends Colony,28.5667,77.2624
+164,,Ganesh Nagar,28.621017,77.28523299999998
+650,,Ashram,28.574933,77.261667
+419,,Mother Dairy,28.619117,77.286333
+728,,Maharani Bagh,28.576633,77.26445
+353,,Samas Pur Jagir,28.615767,77.28546700000003
+592,,Bala Sahib Gurudwara,28.5812,77.266
+203,,Pusta Crossing,28.6124,77.2823
+212,,Khel Gaon,28.606154,77.274967
+660,,Sarai Kale Khan ISBT,28.587117,77.259117
+796,,Road Bridge East,28.599043,77.25782199999998
+345,,Road Bridge East,28.596717,77.256333
+643,,CPWD Office,28.6039,77.2688
+209,,Sarai Kale Khan ISBT,28.588832,77.25879599999998
+141,,Bala Sahib Gurudwara,28.5821,77.26555
+273,,Maharani Bagh,28.574941,77.262217
+805,,Samas Pur Jagir,28.615983,77.28535
+868,,Mother Dairy,28.619267,77.286067
+201,,Ashram,28.571617,77.259167
+613,,Ganesh Nagar,28.62085,77.285167
+109,,New Friends Colony,28.564313,77.264526
+777,,Shakkar pur School Block,28.6271,77.27946700000003
+337,,Ishwar Nagar-2,28.5617,77.2664
+464,,Laxmi Nagar Xing,28.629233000000006,77.27735
+200,,Kalkaji Mode,28.5573,77.269767
+429,,Sukhdev Vihar Depot,28.55465,77.2717
+521,,Laxmi Nagar,28.630967,77.277767
+94,,CRRI,28.550467,77.27485
+686,,Shakarpur,28.6338,77.28215
+237,,Okhla Tank,28.548383,77.276583
+446,,Harkesh Nagar,28.543933000000006,77.279483
+101,,Apollo Hospital,28.539567,77.282917
+901,,New Rajdhani Enclave,28.642483,77.29635
+449,,Sarita Vihar,28.53225,77.287133
+635,,Karkardooma Crossing,28.643217,77.297317
+344,,Madanpur X-ing,28.529333,77.28841700000002
+380,,Haldiram,28.519333000000003,77.29515
+188,,Ali Village,28.516117,77.29656700000002
+617,,Saini Enclave,28.649666,77.305083
+147,,Onida Factory,28.513267,77.297717
+668,,Jagriti Enclave,28.6528,77.3077
+131,,Power House Badarpur,28.50715,77.300283
+812,,Ram Vihar,28.657733,77.310467
+154,,Badarpur,28.502033,77.30036700000002
+338,,Jaitpur X-ing,28.502033,77.30036700000002
+662,,Yamuna Sports Complex,28.659983,77.31173299999998
+331,,Badarpur Border,28.4927,77.30381700000002
+633,,Yojna Vihar,28.663317,77.314617
+638,,Ram Prastha Crossing,28.6631,77.3205
+780,,Anand Vihar (ISBT),28.6608,77.3202
+149,,Anand Vihar ISBT,28.6483,77.3178
+526,,Mehrauli,28.52173728,77.18268981
+602,,Kutub Minar,28.5266,77.1867
+407,,G.P. Depot,28.64175,77.31603299999998
+899,,T.B. Hospital,28.5283,77.1897
+443,,Hasan Pur Vill.,28.636133,77.310567
+813,,DDA Flat Lado Sarai,28.529983,77.192133
+423,,H.P. Depot,28.635993,77.306815
+590,,PTS,28.531317,77.19703299999998
+30,,Ashirwad App.,28.634483000000003,77.301867
+663,,PNB Geetanjali,28.529417,77.2014
+340,,Chander Vihar,28.6329,77.2992
+717,,Saket A Block,28.528,77.205
+206,,Mandawali,28.6329,77.2992
+823,,Press Enclve,28.5282,77.2091
+270,,Prince App.,28.63095,77.3008
+540,,Modi Hospital,28.5285,77.2119
+197,,Nidhi App.,28.6314,77.30199999999998
+554,,Hauz Rani,28.5297,77.2158
+213,,Himalya App.,28.6322,77.3043
+640,,Khirki Vill.,28.530183,77.21835
+359,,Balco App.,28.62985,77.306917
+758,,PSRI,28.53145,77.223883
+369,,Vijaya App.,28.6289,77.309017
+553,,Vocational College,28.532283000000003,77.22695
+161,,Parivar App.,28.626417,77.3091
+631,,Sheikh Sarai,28.533689000000006,77.232139
+434,,Ras Vihar,28.6253,77.3057
+178,,Sarswati Kunj,28.623867,77.30148299999998
+866,,Chirag Delhi,28.540967,77.23208299999997
+222,,Press App.,28.62285,77.2983
+884,,Masjid Moth,28.54085,77.236067
+431,,Govt. Model School,28.621767,77.29508299999998
+673,,Pampose Enclv.,28.5437,77.2438
+409,,Dharma App.,28.6199,77.29005
+348,,Mother Dairy Crossing,28.618933,77.287867
+733,,Nehru Place,28.548617,77.2567
+815,,Kalkaji Mandir,28.55135,77.26385
+716,,NSIC,28.551683,77.26401700000002
+193,,CPWD Office,28.6036,77.2691
+856,,Sukhdev Vihar,28.558983,77.273067
+490,,Holi Faimily,28.5608,77.2727
+625,,Bharat Nagar,28.5619,77.2723
+756,,Sarai Kale Khan,28.587117,77.259117
+175,,Bharat Nagar,28.5622,77.2723
+774,,Road Bride,28.599043,77.25782199999998
+36,,Holi Faimily,28.5604,77.273
+406,,Sukhdev Vihar,28.5586,77.273
+262,,NSIC,28.553683000000003,77.26513299999998
+364,,Kalkaji Mandir,28.55205,77.2645
+800,,Mother Dairy Crossing,28.619333,77.288317
+279,,Nehru Place,28.547317,77.25403299999998
+859,,Dharma App.,28.620183,77.2903
+881,,Govt. Model School,28.621733000000006,77.294533
+224,,Pampose Enclv.,28.5435,77.2441
+670,,Press App.,28.623,77.2983
+428,,OS Communication,28.54045,77.235833
+628,,Sarswati Kunj,28.6239,77.3012
+417,,Chirag Delhi,28.54083955,77.23233002
+885,,Ras Vihar,28.6253,77.3051
+181,,Sheikh Sarai,28.533689000000006,77.232139
+611,,Parivar App.,28.62675,77.30935
+821,,Vijaya App.,28.6288,77.3089
+103,,Vocational College,28.5322,77.2278
+810,,Balco App.,28.6299,77.3067
+305,,PSRI,28.5314,77.224183
+665,,Himalya App.,28.6322,77.3047
+189,,Khirki Vill.,28.52995,77.21805
+647,,Nidhi App.,28.6312,77.3017
+104,,Hauz Rani,28.5294,77.2159
+88,,Modi Hospital,28.5283,77.212
+370,,Press Enclve,28.5279,77.2079
+263,,Saket A Block,28.5278,77.2052
+484,,Ashirwad App.,28.6347,77.3022
+211,,PNB Geetanjali,28.529313,77.2013
+874,,H.P. Depot,28.636183000000006,77.307233
+139,,PTS,28.531233,77.196833
+898,,Hasan Pur Vill.,28.6363,77.3103
+362,,DDA Flat Lado Sarai,28.529833,77.19211700000002
+857,,G.P. Depot,28.6409,77.3154
+445,,T.B. Hospital,28.5284,77.1901
+480,,Maharaj Pur,28.64195,77.31581700000002
+153,,Kutub Minar,28.5264,77.1861
+598,,Anand Vihar ISBT,28.645868,77.315375
+72,,Mehrauli,28.52207278,77.18309669
+146,,ISBT Anand Vihar,28.6483,77.3178
+40,,Anand Vihar ISBT Main Road,28.64696,77.317879
+430,,Mahrajpur Check Post,28.643267,77.316583
+404,,Gazipur Depot,28.64175,77.31603299999998
+208,,Hasan Pur Village,28.636133,77.310567
+60,,Hasan Pur Depot,28.635993,77.306815
+90,,Ashirvas Apartment,28.634483000000003,77.301867
+41,,Chandar Vihar,28.6329,77.2992
+71,,Prince Apartment,28.63095,77.3008
+327,,Nidhi Apartment,28.6314,77.30199999999998
+51,,Himalaya Appartment,28.6322,77.3043
+123,,Balco Apartment,28.62985,77.306917
+159,,Vijaya Laxmi Apartment,28.6289,77.309017
+20,,Parivar Apartment,28.626417,77.3091
+356,,Saraswati Kunj,28.623867,77.30148299999998
+435,,Press Appartments,28.62285,77.2983
+172,,Government Model School,28.621767,77.29508299999998
+194,,Dharma Appartments,28.6199,77.29005
+316,,Mother Dairy Xing,28.618933,77.287867
+722,,Saket A,28.528,77.205
+551,,Press Enclave,28.5282,77.2091
+214,,Tamoor Nagar,28.5726,77.2659
+533,,Khirki Village,28.530183,77.21835
+248,,Bharat Nagar Crossing,28.5622,77.2723
+242,,Holy Family Hospital,28.5604,77.273
+289,,Sukh Dev Vihar,28.5586,77.273
+791,,Sheikh Sarai PH-II,28.533689000000006,77.232139
+157,,Nehru Place Terminal,28.547317,77.25403299999998
+607,,Nehru Place Terminal,28.548617,77.2567
+82,,Pumpose Enclave,28.5435,77.2441
+433,,Masjid Moth,28.54045,77.235833
+341,,Sheikh Sarai PH-II,28.533689000000006,77.232139
+744,,Sukh Dev Vihar,28.558983,77.273067
+112,,Sheikh Sarai More,28.5328,77.2306
+695,,Holy Family Hospital,28.5608,77.2727
+703,,Bharat Nagar Crossing,28.5619,77.2723
+80,,Khirki Village,28.52995,77.21805
+99,,Press Enclave,28.5279,77.2079
+767,,Mother Dairy Xing,28.619333,77.288317
+644,,Dharma Appartments,28.620183,77.2903
+623,,Government Model School,28.621733000000006,77.294533
+886,,Press Appartments,28.623,77.2983
+808,,Saraswati Kunj,28.6239,77.3012
+473,,Parivar Apartment,28.62675,77.30935
+608,,Vijaya Laxmi Apartment,28.6288,77.3089
+574,,Balco Apartment,28.6299,77.3067
+505,,Himalaya Appartment,28.6322,77.3047
+779,,Nidhi Apartment,28.6312,77.3017
+687,,Mandawali Government School,28.6317,77.2979
+495,,Chandar Vihar,28.633000000000006,77.29899999999998
+542,,Ashirvas Apartment,28.6347,77.3022
+514,,Hasan Pur Depot,28.636183000000006,77.307233
+658,,Hasan Pur Village,28.6363,77.3103
+855,,Gazipur Depot,28.64195,77.31581700000002
+596,,ISBT Anand Vihar,28.645868,77.315375
+221,,Aanand Vihar ISBT,28.6483,77.3178
+873,,Kapashera Border,28.5217,77.08211700000003
+26,,Maharaj Pur,28.643267,77.316583
+825,,Kapashera Village,28.524517,77.0837
+451,,Gazi Pur Depot,28.64175,77.31603299999998
+849,,Kapashera Xing,28.5313,77.08815
+86,,Gazi Pur Village,28.6321,77.3161
+578,,Samalka Village,28.534317,77.090233
+114,,National Highway X,28.626833,77.316633
+63,,Khichri Pur,28.624633000000006,77.3095
+329,,Vinod Nagar,28.6227,77.3039
+488,,Rang Puri,28.542533,77.117633
+436,,Sanjay Jheel Triolk Puri,28.6198,77.295283
+721,,Mahipal Pur,28.5468,77.1237
+249,,Sams Pur Jangid (Noida Xing),28.615767,77.28546700000003
+529,,N.H-8 Xing,28.566633000000003,77.13395
+156,,Pusta Xing,28.6124,77.2823
+776,,APS colony,28.579967,77.144817
+151,,Games Vill.,28.606154,77.274967
+702,,Air Forsce HQ,28.584133,77.146033
+816,,RR Hospital,28.590067,77.155817
+143,,S.K.Khan ISBT,28.588832,77.25879599999998
+401,,Bala Shahib Gurudwara,28.5821,77.26555
+850,,Saya Niketan,28.588045500000003,77.1704594
+646,,Nanak Pura,28.584567,77.17276700000002
+258,,Nehru Nagar,28.568283,77.253917
+764,,Moti Bagh,28.58195,77.174283
+288,,Sri Niwas Puri,28.56675,77.253117
+840,,Aradhana Enclave,28.574567,77.17855
+708,,R.K. Puram Sct. 12,28.571367,77.181783
+115,,Gupta Market,28.564833,77.241433
+768,,Hayat Hotel,28.5702,77.1857
+290,,Andreuj Ganj,28.565967,77.22965
+162,,South Extion,28.568367,77.22315
+775,,Nauroji Nagar,28.569633000000003,77.195533
+226,,AIIMS,28.568983000000006,77.213433
+471,,S. J . Hospital,28.5697,77.20438299999998
+18,,S. J . Hospital,28.569483,77.20451700000002
+678,,AIIMS,28.56915,77.21243299999998
+323,,Nauroji Nagar,28.56935,77.19505
+610,,South Extion,28.5689,77.2181
+317,,Hayat Hotel,28.5698,77.186
+745,,Andreuj Ganj,28.565967,77.2306
+254,,R.K. Puram Sct. 12,28.5705,77.1826
+565,,Gupta Market,28.565133000000003,77.239733
+561,,L.P. Nagar,28.5655,77.24565
+311,,Moti Bagh,28.581667,77.174083
+743,,Sri Niwas Puri,28.5674,77.252883
+712,,Nehru Nagar,28.56915,77.253883
+399,,Saya Niketan,28.587833000000003,77.170333
+65,,Atma Ram Collage,28.590383000000006,77.168467
+852,,Bala Shahib Gurudwara,28.5812,77.266
+314,,Dhoula Kuan,28.592721,77.163492
+594,,S.K.Khan ISBT,28.587117,77.259117
+365,,RR Hospital,28.59015,77.15675
+73,,Air Force HQ,28.583117,77.145967
+600,,Games Vill.,28.606621,77.274337
+324,,APS Colony,28.579433,77.145
+75,,N.H-8 Xing,28.566367,77.134283
+705,,Sams Pur Jangid (Noida Xing),28.615983,77.28535
+268,,Mahipal Pur,28.545667,77.123083
+887,,Sanjay Jheel Triolk Puri,28.62015,77.2955
+33,,Rang Puri,28.542143,77.118347
+781,,Vinod Nagar,28.6219,77.300783
+231,,Shiv Murti-1,28.535683,77.11255
+517,,Khichri Pur,28.6258,77.31205
+564,,National Highway X,28.630367,77.316333
+266,,Shiv Murti-2,28.534917,77.108283
+539,,Gazi Pur Village,28.63225,77.31568299999998
+177,,Samalka Xing,28.5378,77.0927
+904,,Gazi Pur Depot,28.64195,77.31581700000002
+125,,Samalka Village,28.534183,77.090267
+397,,Kapashera Xing,28.528867,77.08675
+372,,Kapashera Village,28.5235,77.08325
+198,,Kapashra Border,28.521848,77.082424
+759,,Uttam Nagar Terminal,28.625517,77.066133
+871,,A-1 Janakpuri,28.624767,77.06775
+710,,Tilak Pul,28.6215,77.07
+883,,C-2 Janak Puri,28.616099,77.081447
+905,,Desu Colony Janakpuri,28.610011,77.095348
+572,,Sagar Pur/Vashisth Park,28.6092,77.1011
+500,,D Block Janakpuri,28.611,77.1036
+677,,Lajwanti Garden,28.614,77.1062
+283,,Shakarpur S.Block,28.6271,77.27946700000003
+835,,Janak Setu,28.6107,77.1139
+667,,Supply Depot,28.606783,77.123367
+91,,Rainy Well,28.628017,77.26095
+698,,Kirbi Place,28.6044,77.1273
+276,,Delhi Sect.,28.62795,77.25235
+17,,ITO -AGCR,28.627883,77.24335
+757,,Kabul Line,28.5977,77.1292
+422,,Tilak Bridge,28.6253,77.2387
+797,,Shastri Bazar,28.5966,77.1347
+55,,Mandi House,28.625567,77.233933
+482,,St. Martin School,28.596667,77.1454
+47,,Firoz Shah Road,28.621,77.2215
+826,,Raj Rif Line,28.596167,77.1504
+682,,Golf Club,28.592967,77.15848299999998
+119,,Krishi Bhawan,28.6169,77.213617
+761,,Dhaula Kuan,28.592987,77.162867
+336,,Red Cross Road,28.618035,77.210453
+98,,Aakashwani Bhawan,28.62065,77.2098
+544,,Bapu Dham,28.5992,77.1753
+22,,Kendriya Terminal,28.621017,77.205283
+769,,Railway Colony,28.600683,77.17805
+271,,Talkatora Road,28.6222,77.2031
+491,,Bhart Sadhu Samaj,28.6038,77.184
+332,,Dr. RML Hospital,28.62246667,77.19665
+699,,Palika Kutumb,28.6075,77.1887
+285,,Talkatora Garden,28.621483,77.19461700000002
+709,,11 Murti,28.61105,77.1907
+255,,11 Murti,28.611,77.1908
+739,,Talkatora Garden,28.621667,77.19453299999998
+245,,Palika Kutumb,28.6078,77.1891
+784,,Dr. RML Hospital,28.6226,77.1966
+37,,Bhart Sadhu Samaj,28.603917,77.1845
+726,,Talkatora Road,28.6226,77.2028
+318,,Railway Colony,28.600783000000003,77.1785
+475,,Kendriya Terminal,28.6212,77.2053
+93,,Bapu Dham,28.5994,77.1758
+675,,Gurudwara Bangla Sahib,28.625367,77.209583
+308,,Dhaula Kuan,28.592721,77.163492
+853,,Patel Chowk,28.6244,77.2112
+228,,Golf Club,28.592867,77.158433
+550,,Aakashwani Bhawan,28.62045,77.212633
+373,,Raj Rif Line,28.5958,77.150933
+569,,Krishi Bhawan,28.617467,77.213083
+28,,St. Martin School,28.59656667,77.14546667
+501,,Firoz Shah Road,28.6208,77.2206
+346,,Shastri Bazar,28.5965,77.1358
+752,,K.G. Marg Xing,28.6234,77.2266
+304,,Kabul Line,28.5978,77.1287
+509,,Mandi House,28.625767,77.23433299999998
+872,,Tilak Bridge,28.6255,77.2397
+244,,Kirbi Place,28.60535,77.126367
+215,,Supply Depot,28.606633,77.123233
+730,,Delhi Sect.,28.6283,77.2514
+382,,Janak Setu,28.6104,77.1138
+543,,Rainy Well,28.6283,77.260633
+275,,Nangal Rai/Lajwanti Garden,28.6119,77.1094
+43,,D Block Janakpuri,28.60785,77.10395
+737,,Shakarpur S.Block,28.627433,77.27928299999998
+121,,Sagar Pur/Vashisth Park,28.6091,77.0996
+452,,Desu Colony Janakpuri,28.609871,77.095047
+432,,C-2 Janak Puri,28.61574,77.081582
+256,,Tilak Pul,28.6213,77.07
+421,,A-1 Janakpuri,28.624233,77.067867
+306,,Uttam Nagar Terminal,28.625329,77.066948
+880,,Mahrajpur Check Post,28.64195,77.31581700000002
+494,,Anand Vihar ISBT Main Road,28.645868,77.315375
+676,,A-1 Jank Puri,28.624767,77.06775
+762,,Jeevan Park,28.62,77.0733
+817,,Jank Puri C 1,28.6182,77.077017
+689,,Dabari Xing,28.613374,77.087756
+322,,Balco Appt.,28.62985,77.306917
+516,,Janak Cinema,28.610936,77.093097
+342,,Vijay Laxmi Appt.,28.6289,77.309017
+681,,DESU Colony,28.610011,77.095348
+64,,Parivar Appt.,28.626417,77.3091
+567,,Sagar Pur,28.6092,77.1011
+89,,Rash Vihar,28.6253,77.3057
+621,,D. Block Jank Puri,28.611,77.1036
+78,,Press Appt.,28.62285,77.2983
+374,,Dharma Appt.,28.6199,77.29005
+844,,Kribi Place,28.6044,77.1273
+259,,Shakar Pur School Block,28.6271,77.27946700000003
+67,,Laxmi Nagar,28.629233000000006,77.27735
+632,,RR Line,28.596167,77.1504
+766,,Dhoula Kuan,28.592987,77.162867
+861,,Sardar Patel Marg,28.5972,77.1714
+2,,ITO AGCR,28.627883,77.24335
+819,,Bharat Sadhu Samaj,28.6038,77.184
+405,,Firozshah Road,28.621,77.2215
+557,,RML Hospital,28.6226,77.1966
+7,,Krish Bhawan,28.6169,77.213617
+836,,Kend. Terminal,28.6212,77.2053
+148,,AkashVani Bhawan,28.62065,77.2098
+615,,Bangla Shahib,28.625367,77.209583
+166,,Bangla Shahib,28.6209,77.2073
+672,,Akash Vani Bhawan,28.62045,77.212633
+383,,Kend. Terminal,28.621017,77.205283
+460,,Krish Bhawan,28.617467,77.213083
+107,,RML Hospital,28.62246667,77.19665
+696,,Firozshah,28.6208,77.2206
+216,,Palika Kutum,28.6078,77.1891
+412,,Sardar Patel Marg,28.597,77.1713
+183,,RR Line,28.5958,77.150933
+713,,Shakar Pur School Block,28.627433,77.27928299999998
+827,,Dharma Appt.,28.620183,77.2903
+391,,Kribi Place,28.60535,77.126367
+531,,Press Appt.,28.623,77.2983
+294,,Jank Setu,28.6104,77.1138
+541,,Rash Vihar,28.6253,77.3051
+100,,Nangal Raya/ Lajwanti Gdn,28.6119,77.1094
+518,,Parivar Appt.,28.62675,77.30935
+170,,D. Block Jank Puri,28.60785,77.10395
+793,,Vijay Laxmi Appt.,28.6288,77.3089
+117,,Sagar Pur,28.6091,77.0996
+773,,Balco Appt.,28.6299,77.3067
+229,,DESU Colony,28.609871,77.095047
+62,,Janak Cinema,28.610881,77.092159
+236,,Dabari Xing,28.613716,77.085675
+130,,Janak Puri C 1,28.6172,77.0785
+309,,Jeevan Park,28.6195,77.0736
+351,,A-1 Janak Puri,28.624233,77.067867
+472,,Jagat Puri F Block,28.6483849,77.2948486
+711,,Jagat Puri A Block,28.6515642,77.2928452
+820,,Radhey Puri,28.654983500000004,77.2917676
+829,,Arjun Nagar,0.0,0.0
+459,,Hans Apartment,28.6584247,77.2895051
+723,,Krishna Nagar A Block,28.659885,77.28833540000002
+477,,Swaran Cinema,28.6626339,77.2862755
+468,,East Azad Nagar,0.0,0.0
+503,,Jhar Khandi,28.667811,77.28201130000002
+697,,Kanti Nagar Extn. / Bihari Colony,28.6705111,77.2805954
+645,,Welcome Metro Station,0.0,0.0
+894,,Seelam Pur Petrol Pump,28.6710354,77.2685948
+476,,Seelam pur,28.6705561,77.2657835
+601,,Dharam Pura,0.0,0.0
+738,,Shastri Park,0.0,0.0
+799,,Shyam Giri Mandir,0.0,0.0
+748,,Shashtri Park Metro Depot,28.673384999999996,77.241249
+492,,ISBT K.Gate,28.666849900000006,77.2279088
+38,,ISBT K.Gate,0.0,0.0
+293,,Shashtri Park Metro Depot,28.674410700000006,77.24309609999997
+349,,Shyam Giri Mandir,0.0,0.0
+284,,Shastri Park,0.0,0.0
+152,,Dharam Pura,0.0,0.0
+23,,Seelam pur,28.6707844,77.26538120000002
+441,,Seelam Pur Petrol Pump,0.0,0.0
+196,,Welcome Metro Station,0.0,0.0
+243,,Kanti Nagar Extn. / Bihari Colony,28.670852000000004,77.2807986
+15,,East Azad Nagar,0.0,0.0
+49,,Jhar Khandi,28.6678298,77.2823144
+366,,Swaran Takies,28.6635094,77.28595899999998
+269,,Krishna Nagar A Block,0.0,0.0
+6,,Hans Apartment,0.0,0.0
+376,,Arjun Nagar,0.0,0.0
+368,,Radhey Puri,28.6550465,77.29208609999998
+257,,Jagat Puri A Block,28.6516652,77.29317950000002
+19,,Jagat Puri F Block,28.6480483,77.2954387
+830,,A.N.Terminal (Asian Mkt),28.516177000000003,77.226969
+734,,Depsar (A.N.Ter.),28.5162907,77.22379790000002
+609,,A.N.Depot,0.0,0.0
+532,,G.Block Dakshin Puri,28.514066600000003,77.234314
+536,,Vayu Sana Bad (Tigri),28.512924600000005,77.2389435
+648,,Batra Hospital,28.5123363,77.2433785
+637,,Hamdard Nagar (Sangam Vihar),28.5122836,77.2487333
+570,,Masjidia Hospital,28.514937100000004,77.25259840000002
+770,,Hamdard Libarary,0.0,0.0
+749,,Guru Ravi Das Mandir,28.5195251,77.25432140000002
+772,,Tara Appartment,28.5225809,77.25541750000002
+735,,Kalka Ji D.D.A.Flat,28.527923699999995,77.2574636
+786,,Govind Puri Gali No-13,28.5348195,77.2601323
+718,,Govind Puri,28.5376484,77.2611921
+807,,Kalka Ji Depot,28.5394547,77.2661753
+566,,Punj Sons (Govind Puri Metro),28.54505,77.2639121
+586,,Kalka Ji Mandir,28.5476349,77.2627937
+466,,Modi Mill,28.5555831,77.26519470000002
+789,,Okhla Sabji Mandi,28.5581913,77.26284059999998
+760,,S.N.P.Depot,28.5607538,77.2605929
+736,,East of Kailash C.Block,28.5619434,77.2578828
+520,,East of Kailash B.Block,28.561880100000003,77.25564320000002
+787,,Garhi Village,28.562199300000003,77.25127579999999
+585,,L.P.Nager Xing,0.0,0.0
+486,,P.G.D.A.V. Collage,28.567321600000003,77.25288959999997
+489,,Guru Duvara Bala Shaib,28.581234000000002,77.265963
+719,,Sarai Kale Khan I.S.B.T.,0.0,0.0
+841,,East Road Bridge (Nizamuddin Bridge More),28.5990614,77.2577837
+732,,PWD Office NH-24,28.6027744,77.26598359999998
+485,,CWG Khel Gaon,28.6066249,77.27432950000002
+680,,Pust Xing (Noida Xing),28.612835200000006,77.2820592
+624,,Samas Pur Jagir Village,28.6167328,77.286429
+614,,Sakar Pur S-3 School Block,28.626988,77.27950200000001
+862,,Sakar Pur S-1 School Block,0.0,0.0
+618,,T.T.Post under Pass,28.6292883,77.2772681
+801,,Laxmi Nagar Metro,0.0,0.0
+563,,Shakar Pur,28.633831,77.28222
+771,,Sakar Pur Xing,28.6356612,77.2849297
+591,,Nirman Vihar (Metro),28.636978000000006,77.28727049999998
+583,,Sawastya Vihar,28.6393613,77.2919191
+506,,Kerkar Duma Xing,28.643195,77.297291
+465,,H.P.Depot,0.0,0.0
+869,,Talco Gazipur,0.0,0.0
+454,,Anand Vihar I.S.B.T.,28.646766600000007,77.3174802
+1,,Anand Vihar I.S.B.T.,0.0,0.0
+59,,Anand Vihar,28.6473451,77.3180563
+192,,Maharaj Pur Check post,28.6433221,77.3165862
+8,,H.P.Depot,28.635870500000006,77.308105
+52,,Kerkar Duma Xing,28.6435838,77.29817320000002
+134,,Sawastya Vihar,28.6393099,77.29231970000002
+140,,Nirman Vihar (Metro),28.6367771,77.28748990000003
+319,,Sakar Pur Xing,28.6352695,77.2849
+113,,Shakar Pur,28.6334523,77.2820677
+347,,Laxmi Nagar Metro,28.630791700000003,77.2780797
+413,,Sakar Pur S-1 School Block,28.6297912,77.2770679
+165,,Sakar Pur S-3 School Block,28.6273409,77.27933840000001
+171,,Samas Pur Jagir Village,28.6164297,77.28678590000001
+355,,Pusta Xing (Akshar Dham Temple),28.6123189,77.28241700000002
+31,,CWG Khel Gaon,28.6061912,77.2749683
+278,,PWD Office NH-24,28.6018654,77.265973
+388,,East Road Bridge (Nizamuddin Bridge More),28.596459000000007,77.2563877
+265,,Sarai Kale Khan I.S.B.T.,28.5887145,77.258965
+34,,Guru Duvara Bala Shaib,28.582037100000004,77.26549370000002
+218,,S.N.Puri,28.5666758,77.2529988
+135,,L.P.Nager Xing,28.5641947,77.2502942
+335,,Garhi Village,28.5623563,77.2514123
+66,,East of Kailash B.Block,28.5621345,77.2556004
+282,,East of Kailash C.Block,28.5620862,77.25820279999998
+307,,S.N.P.Depot,28.5612701,77.2600745
+339,,Okhla Sabji Mandi,28.5584074,77.2629667
+13,,Modi Mill,28.5565925,77.2646563
+392,,N.S.I.C.,28.5536639,77.26510520000002
+136,,Kalka Ji Mandir,28.5520336,77.2644186
+116,,Punj Sons (Govind Puri Metro),28.5451985,77.2641267
+354,,Kalka Ji Depot,28.5395272,77.2664195
+312,,Acharya Narender Dav Collage,28.5384482,77.26313640000002
+264,,Govind Puri,28.537609000000003,77.26133270000003
+334,,Govind Puri Gali No-13,28.5345316,77.2601579
+281,,Kalka Ji D.D.A.Flat,28.531899100000004,77.2591695
+251,,Kalka Ji D.D.A.Flat F.Mkt,28.5303035,77.2585442
+320,,Tara Appartment,28.5241646,77.2561954
+295,,Guru Ravi Das Mandir,28.5194596,77.2544897
+315,,Hamdard Libarary,28.5171,77.25361600000001
+120,,Masjidia Hospital,28.5148984,77.2528147
+187,,Hamdard Nagar (Sangam Vihar),28.5118735,77.24965870000003
+199,,Batra Hospital,28.5120935,77.2434267
+83,,Vayu Sana Bad (Tigri),28.5128687,77.2383428
+102,,Khanpur Extension,28.5136803,77.234887
+160,,A.N.Depot,28.5151166,77.2284328
+280,,Depsar (A.N.Ter.),28.5161071,77.2235741
+385,,Asian Mkt (A.N.Terminal,28.5165495,77.221246
+378,,A.N.Terminal (Asian Mkt),28.5161924,77.2266247
+163,,B Block Yamuna Vihar,28.7031627,77.27002209999998
+61,,Brijpuri Yamuna Vihar,28.7026766,77.27508540000002
+84,,C-4 Yamuna Vihar,28.7023333,77.2785312
+292,,C-4 Yamuna Vihar Xing( GokalPuri),28.7019142,77.2830854
+14,,Vijay park,28.6938654,77.2804798
+142,,Babar Pur Extn,28.6907336,77.2797524
+173,,Shiv Mandir(Chajju Pur),28.6898564,77.28390970000002
+230,,Chajju Pur,28.6895332,77.2867952
+260,,Durga Puri,28.6894075,77.29139140000002
+29,,Jyoti Colony,28.689492200000004,77.29588670000003
+252,,Natthu Colony Chowk,28.6895756,77.29830770000002
+182,,Nand Nagari C Block(GTB Xing),28.690063,77.3078307
+223,,Sunder Nagari,28.693109000000003,77.3158578
+54,,Anand Gram Ashram- Tahir Pur,28.6887832,77.3216537
+390,,New Seema Puri Maszid,28.6915016,77.32493790000002
+45,,New Seema Puri,28.6886994,77.3301963
+92,,Seema Puri,28.685136,77.33150479999998
+4,,Dilshad Garden J & K Block,28.675634,77.3229676
+25,,Shahadara Border Road No-62,28.6688581,77.32244490000002
+133,,Ramprashta Mandir,28.6628629,77.32044090000002
+302,,Ram Prastha Xing,28.6604006,77.3201406
+411,,Gazipur Depot Xing (EDM),28.6375863,77.31464890000002
+179,,National Highway X-ing,28.626956,77.31819159999998
+205,,Gazi Pur SBI,28.622984999999996,77.31979100000001
+425,,Gazi Pur Dairy Farm,28.620257000000002,77.320763
+69,,Kalyan Puri X-ing,28.614646999999998,77.321413
+85,,Kondli Crossing,28.6131208,77.3228519
+424,,Dallu Pura Village,28.6088346,77.3199638
+287,,Mayur Vihar Phase-3 X-Ing,28.6025899,77.3254115
+16,,Mayur Vihar Phase-3 X ing Border,28.5992653,77.3281937
+35,,JhundPura Vill-Noida Sec-8xing,28.6358417,77.4280748
+448,,Noida Sector-11,28.5961916,77.33094229999998
+379,,Noida Sect-12 -A Block,28.634810700000006,77.4288673
+408,,Metro Hospital,28.598134,77.33531090000002
+377,,Noida Sector 56,28.5998262,77.34907740000001
+217,,Noida Sec-12/22,28.5989039,77.34447829999998
+414,,Raghu Nath Pur /Chora Village,28.595855199999995,77.3434997
+105,,Chora More Noida Sec-12,28.5933237,77.3405556
+137,,Noida Stadium,28.589924300000003,77.3360043
+286,,Noida Sec-10 21-Jalvayu Vihar,28.587979200000003,77.3332505
+241,,Noida Sec 20(Police Station),28.5846662,77.3288221
+296,,Telephone Exch- Noida Sec-19,28.5821892,77.32543940000002
+313,,Noida Sec-04,28.634955699999995,77.4288593
+301,,Noida Sec-26 Mrkt,28.5783664,77.3203914
+358,,Noida Sec-18 Metro Station/ GIP.,28.571014,77.326021
+39,,Noida Sector-28/29,28.5689229,77.3284838
+367,,Botanical Garden Metro Station,28.5649065,77.3345209
+450,,Noida Sector 37,28.562637899999995,77.3397995
+227,,Noida Sec-43 Police Chowki,28.561193,77.346211
+679,,Noida Sec-43 Police Chowki,28.56066,77.345392
+903,,Noida Sector 37,28.5626033,77.3402243
+818,,Botanical Garden Metro Station,28.563764000000003,77.334451
+493,,Noida Sector-28/29,28.5686485,77.32857729999998
+806,,Noida Sec-18 Metro Station,28.5708027,77.32593990000002
+888,,Filam City Under Pass,28.63528,77.4278817
+822,,Wave Cinema Sec-18,28.6366295,77.43138929999998
+652,,Atta Peer,28.5743418,77.32200809999999
+765,,Noida Sec-04,28.6354633,77.42760720000003
+750,,Telephone Exch- Noida Sec-19,28.582532,77.325576
+740,,Noida Sec-10 21-Jalvayu Vihar,28.5885256,77.33367159999997
+587,,Noida Stadium,28.5902006,77.33598520000002
+555,,Chora More Noida Sec-12,28.5934224,77.3403064
+864,,Raghu Nath Pur /Chora Village,28.595960100000006,77.3433386
+469,,Chora Village Sec12/22,28.5988614,77.34362970000002
+831,,Noida Sector 56,28.5998568,77.3414813
+858,,Metro Hospital,28.598588300000007,77.3359086
+896,,Noida Sector 8,28.596663800000005,77.33020069999998
+747,,JhundPura Vill-Noida Sec-6xing,28.6343016,77.4264171
+742,,Mayur Vihar Phase-3 XING Border,28.5992842,77.3279629
+741,,Mayur Vihar Phase-3 X-Ing,28.6016618,77.3259741
+571,,Sankathara Ganpati mandir,28.603138,77.3246572
+727,,Dallu Pura Fire Station,28.606744,77.321256
+875,,Dallu Pura Village,28.6087175,77.3199134
+573,,Kondali More,28.6130256,77.3228571
+523,,Kalyan Puri X-ing,28.6142292,77.3211248
+629,,National Highway X-ing,28.627361,77.31748449999998
+589,,Gazipur Depot Xing,28.6360575,77.314435
+755,,Ram Prastha Xing,28.660464500000003,77.31998229999998
+584,,Ramprashta Mandir,28.6627829,77.320162
+479,,Shahadara Border Road No-62,28.6688857,77.3222048
+457,,Dilshad Garden J & K Block,28.6756475,77.3227921
+545,,Seema Puri,28.6853737,77.33119640000002
+499,,New Seema Puri,28.6885945,77.3300145
+843,,New Seema Puri Maszid,28.6913947,77.32504240000002
+508,,Anand Gram Ashram- Tahir Pur,28.6888451,77.3219789
+671,,Sunder Nagari,28.692727500000004,77.3158723
+795,,Nand Nagari C Block/ GTB Xing,28.6898407,77.3064549
+706,,Natthu Colony Chowk,28.6894297,77.2988066
+714,,Durga Puri,28.689267600000004,77.29138490000003
+684,,Chajju Pur,28.6894261,77.28680190000001
+622,,Shiv Mandir(Chajju Pur),28.689732300000006,77.28389150000002
+593,,Babar Pur Extn,28.6906565,77.27961490000001
+467,,Vijay Park,28.6936988,77.28015129999999
+538,,C-4 Yamuna Vihar,28.7018251,77.28267259999998
+515,,Brijpuri Yamuna Vihar,28.7025636,77.2737872
+612,,B Block Yamuna Vihar,28.7029462,77.2697056
+0,,windsor place,0.0,0.0
+106,,madhuban chowk,0.0,0.0
+343,,cd blk peetampura,0.0,0.0
+108,,kakarduma (metro),0.0,0.0
+3,,dlf more,0.0,0.0
+110,,ashok vihar,0.0,0.0
+232,,loni mig flat,0.0,0.0
+5,,new police line,0.0,0.0
+234,,mandawali government school,0.0,0.0
+111,,l.p. nagar,0.0,0.0
+235,,bank colony,0.0,0.0
+12,,navdurga mandir,0.0,0.0
+10,,azad pur terminal,0.0,0.0
+9,,c-2b janak puri,0.0,0.0
+350,,swashthya vihar,0.0,0.0
+238,,masood pur dairy,0.0,0.0
+239,,vishwavidayalaya,0.0,0.0
+352,,wazirabad xing,0.0,0.0
+240,,khajuri,0.0,0.0
+118,,santoor hotel,0.0,0.0
+357,,shalimar bagh,0.0,0.0
+246,,shahdara border,0.0,0.0
+21,,sec-a vasant kunj,0.0,0.0
+122,,pitam pura,0.0,0.0
+247,,bhajan pura,0.0,0.0
+360,,janakpuri c4e,0.0,0.0
+24,,kd blok peetampura,0.0,0.0
+124,,rohini sector-3,0.0,0.0
+250,,subhash place,0.0,0.0
+27,,a-3 janak puri,0.0,0.0
+126,,model town 1st,0.0,0.0
+127,,baba b.d. ashram,0.0,0.0
+128,,sec c-8 vasant kun,0.0,0.0
+363,,alpna cinema,0.0,0.0
+129,,mall rd,0.0,0.0
+253,,anand gram,0.0,0.0
+132,,air traffic control (atc),0.0,0.0
+32,,p s sadar bazar,0.0,0.0
+138,,timar pur,0.0,0.0
+261,,sec-d vasant kunj,0.0,0.0
+371,,meera bai place,0.0,0.0
+267,,rang puri pahari,0.0,0.0
+144,,dav public school,0.0,0.0
+145,,rajokari xing,0.0,0.0
+375,,shalimar garden,0.0,0.0
+150,,police station,0.0,0.0
+272,,ashok nagar,0.0,0.0
+155,,c2a janak puri,0.0,0.0
+274,,b blk yamuna vihar,0.0,0.0
+158,,gagan cinema,0.0,0.0
+381,,dd office,0.0,0.0
+42,,lado sarai,0.0,0.0
+44,,janakpuri c4h,0.0,0.0
+46,,power house,0.0,0.0
+384,,avantika rohini sec-1,0.0,0.0
+386,,rohini sec.,0.0,0.0
+387,,aradhana enclave,0.0,0.0
+48,,mall road,0.0,0.0
+389,,taimoor nagar,0.0,0.0
+393,,rajeev nagar,0.0,0.0
+394,,prem bari,0.0,0.0
+395,,chander nagar,0.0,0.0
+50,,balak ram hospital,0.0,0.0
+396,,ins hostel,0.0,0.0
+53,,dilshad garden j&k pkt,0.0,0.0
+56,,nanak sar,0.0,0.0
+167,,ramprasth xing,0.0,0.0
+398,,sec-b1 vasant kun,0.0,0.0
+57,,wazirpur depot,0.0,0.0
+174,,ahinsa sathal,0.0,0.0
+58,,dr. bheem rao,0.0,0.0
+400,,a-5b janak puti,0.0,0.0
+176,,richi rich,0.0,0.0
+402,,patel chowk,0.0,0.0
+403,,ayodhya chowk,0.0,0.0
+291,,desu office,0.0,0.0
+180,,mandoli xing,0.0,0.0
+410,,c blk yamuna vihar,0.0,0.0
+68,,andheria more,0.0,0.0
+297,,jain mandir,0.0,0.0
+298,,k.g. marg xing,0.0,0.0
+299,,sunder nagri,0.0,0.0
+300,,shri govind,0.0,0.0
+415,,naharpur village,0.0,0.0
+416,,modi mills,0.0,0.0
+70,,banarsi dass,0.0,0.0
+185,,new surya kiran apartment,0.0,0.0
+418,,peetampura,0.0,0.0
+303,,sarai kale khan,0.0,0.0
+420,,mall road delhi cantt.,0.0,0.0
+310,,nehru vihar,0.0,0.0
+74,,rohini sec. 7,0.0,0.0
+190,,a-2 janak puri telephone exachange,0.0,0.0
+191,,isic hosp,0.0,0.0
+76,,ndpo,0.0,0.0
+426,,nand nagari terminal,0.0,0.0
+427,,paras cinema,0.0,0.0
+77,,rohini sec-3,0.0,0.0
+195,,nanak pura,0.0,0.0
+79,,kathuria public shool,0.0,0.0
+321,,road bride,0.0,0.0
+81,,new surya kiran apptt.,0.0,0.0
+325,,shakkar pur school block,0.0,0.0
+87,,ramprasth,0.0,0.0
+326,,jharoda village,0.0,0.0
+202,,surya nagar,0.0,0.0
+204,,verma farm,0.0,0.0
+330,,taj hotel,0.0,0.0
+95,,model town 2nd,0.0,0.0
+207,,meera bai polytechnic,0.0,0.0
+96,,tahir pur village,0.0,0.0
+97,,cargo,0.0,0.0
+437,,c-3 janak puri,0.0,0.0
+438,,masood pur village,0.0,0.0
+439,,igi air port terminal-2,0.0,0.0
+333,,nand nagari e-block,0.0,0.0
+440,,kishan garh,0.0,0.0
+442,,raddission hotel,0.0,0.0
+219,,jagriti enclave,0.0,0.0
+220,,c-5a janak puri,0.0,0.0
+444,,gtb nagar,0.0,0.0
+225,,hanuman mandir,0.0,0.0
+453,,windsor place,0.0,0.0
+556,,madhuban chowk,0.0,0.0
+792,,cd blk peetampura,0.0,0.0
+683,,africa avevnue,0.0,0.0
+455,,ito agcr,0.0,0.0
+558,,kakarduma (metro),0.0,0.0
+456,,dlf more,0.0,0.0
+560,,ashok vihar,0.0,0.0
+685,,loni mig flat,0.0,0.0
+458,,new police line,0.0,0.0
+688,,bank colony,0.0,0.0
+562,,sheikh sarai more,0.0,0.0
+463,,navdurga mandir,0.0,0.0
+461,,azad pur terminal,0.0,0.0
+462,,c-2b janak puri,0.0,0.0
+802,,swashthya vihar,0.0,0.0
+803,,c-4 yamuna vihar xing (gokal puri),0.0,0.0
+690,,masood pur dairy,0.0,0.0
+692,,vishwavidayalaya,0.0,0.0
+804,,wazirabad xing,0.0,0.0
+693,,khajuri,0.0,0.0
+470,,ito -agcr,0.0,0.0
+568,,santoor hotel,0.0,0.0
+694,,noida sec 20(police station),0.0,0.0
+809,,shalimar bagh,0.0,0.0
+700,,shahdara border,0.0,0.0
+474,,sec-a vasant kunj,0.0,0.0
+575,,pitam pura,0.0,0.0
+701,,bhajan pura,0.0,0.0
+811,,janakpuri c4e,0.0,0.0
+478,,kd blok peetampura,0.0,0.0
+576,,rohini sector-3,0.0,0.0
+577,,rohini sec,0.0,0.0
+704,,subhash place,0.0,0.0
+481,,a-3 janak puri,0.0,0.0
+579,,model town 1st,0.0,0.0
+580,,baba b.d. ashram,0.0,0.0
+814,,alpna cinema,0.0,0.0
+483,,jyoti colony,0.0,0.0
+707,,anand gram,0.0,0.0
+582,,air traffic control (atc),0.0,0.0
+487,,p s sadar bazar,0.0,0.0
+588,,timar pur,0.0,0.0
+715,,sec-d vasant kunj,0.0,0.0
+824,,meera bai place,0.0,0.0
+720,,rang puri pahari,0.0,0.0
+595,,dav public school,0.0,0.0
+828,,shalimar garden,0.0,0.0
+599,,police station,0.0,0.0
+724,,prince app.,0.0,0.0
+725,,ashok nagar,0.0,0.0
+604,,c2a janak puri,0.0,0.0
+832,,haldiram,0.0,0.0
+729,,b blk yamuna vihar,0.0,0.0
+605,,pusta xing,0.0,0.0
+606,,gagan cinema,0.0,0.0
+833,,noida sect-12 -a block,0.0,0.0
+834,,dd office,0.0,0.0
+496,,lado sarai,0.0,0.0
+497,,janakpuri c4h,0.0,0.0
+498,,power house,0.0,0.0
+837,,mausam vihar,0.0,0.0
+838,,avantika rohini sec-1,0.0,0.0
+839,,rohini sec.,0.0,0.0
+731,,nirman vihar,0.0,0.0
+502,,mall road,0.0,0.0
+842,,taimoor nagar,0.0,0.0
+845,,rajeev nagar,0.0,0.0
+846,,prem bari,0.0,0.0
+847,,chander nagar,0.0,0.0
+504,,balak ram hospital,0.0,0.0
+848,,ins hostel,0.0,0.0
+507,,dilshad garden j&k pkt,0.0,0.0
+510,,nanak sar,0.0,0.0
+616,,ramprasth xing,0.0,0.0
+619,,hargovind singh enclave,0.0,0.0
+511,,wazirpur depot,0.0,0.0
+620,,ahinsa sathal,0.0,0.0
+512,,dr. bheem rao,0.0,0.0
+513,,anand vihar,0.0,0.0
+851,,a-5b janak puti,0.0,0.0
+626,,richi rich,0.0,0.0
+854,,ayodhya chowk,0.0,0.0
+746,,desu office,0.0,0.0
+627,,samalka xing,0.0,0.0
+630,,mandoli xing,0.0,0.0
+519,,shiv murti,0.0,0.0
+860,,c blk yamuna vihar,0.0,0.0
+522,,andheria more,0.0,0.0
+751,,jain mandir,0.0,0.0
+753,,sunder nagri,0.0,0.0
+754,,shri govind,0.0,0.0
+863,,naharpur village,0.0,0.0
+865,,modi mills,0.0,0.0
+524,,banarsi dass,0.0,0.0
+525,,prince apartment,0.0,0.0
+634,,new surya kiran apartment,0.0,0.0
+867,,peetampura,0.0,0.0
+636,,ram prastha,0.0,0.0
+870,,mall road delhi cantt.,0.0,0.0
+527,,rajnigandha chowk,0.0,0.0
+763,,nehru vihar,0.0,0.0
+528,,rohini sec. 7,0.0,0.0
+641,,a-2 janak puri telephone exachange,0.0,0.0
+642,,isic hosp,0.0,0.0
+530,,ndpo,0.0,0.0
+876,,gazi pur dairy farm,0.0,0.0
+877,,nand nagari terminal,0.0,0.0
+878,,paras cinema,0.0,0.0
+534,,new surya kiran apptt.,0.0,0.0
+882,,sec c-8 vasant kunj,0.0,0.0
+535,,pumpose enclave,0.0,0.0
+537,,ramprasth,0.0,0.0
+778,,jharoda village,0.0,0.0
+651,,surya nagar,0.0,0.0
+653,,pusta crossing,0.0,0.0
+654,,verma farm,0.0,0.0
+655,,gazi pur sbi,0.0,0.0
+782,,taj hotel,0.0,0.0
+547,,model town 2nd,0.0,0.0
+656,,sec-b1 vasant kunj,0.0,0.0
+657,,mandawali,0.0,0.0
+548,,tahir pur village,0.0,0.0
+549,,cargo,0.0,0.0
+659,,meera bai polytechnic,0.0,0.0
+889,,c-3 janak puri,0.0,0.0
+890,,igi air port terminal-2,0.0,0.0
+891,,masood pur village,0.0,0.0
+661,,tt post under pass,0.0,0.0
+785,,nand nagari e-block,0.0,0.0
+892,,kishan garh,0.0,0.0
+893,,kathuria public school,0.0,0.0
+664,,khel gaon,0.0,0.0
+666,,tamoor nagar,0.0,0.0
+895,,raddission hotel,0.0,0.0
+897,,gtb nagar,0.0,0.0
+669,,c-5a janak puri,0.0,0.0
+674,,hanuman mandir,0.0,0.0
+790,,chander vihar,0.0,0.0
